@@ -1,17 +1,17 @@
 ### Hello, World!
 
-##### About Me
+#### About Me
 
 - Hi! I am acedron! I am a high schooler who is coding for fun.
 - I am mainly interested in **Web/Mobile App Development** and **System Development**.
 - My favourite language is **JavaScript💖**, of course!
 - I am currently working on a Discord bot: **[Sekai](https://acedron.github.io/projects/sekai)**.
 
-##### My Stats
+#### My Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=acedron&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 
-##### Contact
+#### Contact
 
 You can find me on:
 
