@@ -9,8 +9,8 @@
 
 #### My Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedron&theme=gruvbox" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=acedron&show_icons=true&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api?username=acedron&show_icons=true&theme=gruvbox" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedron&theme=gruvbox&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=acedron&theme=gruvbox&layout=compact">
 
 #### Contact
