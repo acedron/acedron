@@ -9,11 +9,9 @@
 
 #### My Stats
 
-[![アセヅロン's GitHub Stats](https://github-readme-stats.vercel.app/api?username=acedron&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 #### Contact
 
-  📫 You can find me on:
+📫 You can find me on:
 
 - **E-Mail**: [acedrons@yahoo.co.jp](mailto:acedrons@yahoo.co.jp)
 - **itch.io**: [acedron](https://acedrons.itch.io)
@@ -22,4 +20,4 @@
 
 #### My Projects
 
-  💡 You can find my projects below:
+💡 You can find my projects below:
