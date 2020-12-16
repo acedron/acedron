@@ -5,7 +5,7 @@
 - 👋 Hi! I am acedron! I am a high schooler who is coding for fun.
 - 🧠 I am mainly interested in **Web/Mobile App Development** and **System Development**.
 - 💖 My favourite language is **JavaScript**, of course!
-- 🔧 I am currently working on *something*: **[Sahito Project](https://github.com/sahito-org)**
+- 🔧 I am currently working on *something*: **[Sahito Project](https://github.com/sahito-org/sahito-project)**
 
 #### My Stats
 
