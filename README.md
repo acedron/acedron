@@ -5,7 +5,7 @@
 - 👋 Hi! I am acedron! I am a high schooler who is coding for fun.
 - 🧠 I am mainly interested in **Web/Mobile App Development** and **System Development**.
 - 💖 My favourite language is **JavaScript**, of course!
-- 🔧 I am currently working on *nothing* sadly.
+- 🔧 I am currently working on a cross-platform Super Mario 64 Rom Editor: **[sm64-editor-nux](https://github.com/acedron/sm64-editor-nux)**
 
 #### My Stats
 
