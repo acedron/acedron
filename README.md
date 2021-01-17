@@ -5,13 +5,13 @@
 - 👋 Hi! I am acedron! I am a high schooler who is coding for fun.
 - 🧠 I am mainly interested in **Web/Mobile App Development** and **System Development**.
 - 💖 My favourite language is **JavaScript**, of course!
-- 🔧 I am currently working on a basic utility app for classes: **[Ace Class Utility](https://github.com/acedron/ace-class-utility)**
+- 🔧 I am currently working on ***something***.
 
 #### My Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedron&theme=gruvbox" align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=acedron&show_icons=true&theme=gruvbox" align="left">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=acedron&theme=gruvbox&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedron&theme=gruvbox" align="left" alt="Top Languages That I Use" />
+<img src="https://github-readme-stats.vercel.app/api?username=acedron&show_icons=true&theme=gruvbox" align="left" alt="My GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=acedron&theme=gruvbox&layout=compact" alt="My WakaTime Stats" />
 
 #### Contact
 
