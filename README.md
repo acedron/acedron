@@ -3,9 +3,9 @@
 #### About Me
 
 - 👋 Hi! I am acedron! I am a high schooler who is coding for fun.
-- 🧠 I am mainly interested in **Web/Mobile App Development** and **System Development**.
-- 💖 My favourite language is **JavaScript**, of course!
-- 🔧 I am currently working on rewrite (kind of) of [*abstouch-nux*](https://github.com/acedron/abstouch-nux), ***[egawari](https://github.com/egawari)***.
+- 🧠 I am mainly interested in **System Development** and **App Development**.
+- 💖 My favourite languages are **C** and **TypeScript**!
+- 🔧 I am currently working on an input library *(kind of)*, ***[egawari](https://github.com/egawari)***.
 
 #### My Stats
 
