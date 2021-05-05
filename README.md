@@ -5,7 +5,7 @@
 - 👋 Hi! I am acedron! I am a high schooler who is coding for fun.
 - 🧠 I am mainly interested in **System Development** and **App Development**.
 - 💖 My favourite languages are **C** and **TypeScript**!
-- 🔧 I am currently working on an input library *(kind of)*, ***[egawari](https://github.com/egawari)***.
+- 🔧 I am currently working on an input client, ***[egawari](https://github.com/acedron/egawari)***.
 
 #### My Stats
 
